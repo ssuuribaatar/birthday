@@ -1,4 +1,7 @@
 HBD
+
+https://ssuuribaatar.github.io/birthday/
+
 ```
 npm install
 ```
